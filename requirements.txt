@@ -12,5 +12,5 @@ query-string==2018.11.20
 request==2018.11.20
 requests==2.21.0
 selenium==2.53.6
-urllib3==1.24.1
+urllib3==1.24.2
 xlrd==1.2.0
